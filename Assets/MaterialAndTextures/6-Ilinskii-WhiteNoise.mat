@@ -81,6 +81,8 @@ Material:
     m_Floats:
     - _AlphaClip: 0
     - _Blend: 0
+    - _Blue: 0.5
+    - _BlueScale: 0.1
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
@@ -93,19 +95,23 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
+    - _Green: 0.3
+    - _GreenScale: 0.5
     - _Metallic: 0
-    - _NoiseScale: 500
+    - _NoiseScale: 20000
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _Red: 0.3
+    - _RedScale: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _TimeScale: 10
+    - _TimeScale: 1000
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:

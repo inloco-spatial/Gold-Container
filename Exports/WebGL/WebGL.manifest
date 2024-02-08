@@ -2,7 +2,7 @@ ManifestFileVersion: 1
 CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: goldencontainerdraft_0
-      Hash: a1f356766fbfc4a7e3dbc08b8e88a675
-      CRC: 1736268441
+      Name: goldencratedraft_0
+      Hash: 709070fb9bebf4bf672156df2e1b66f2
+      CRC: 1365075338
       Dependencies: {}

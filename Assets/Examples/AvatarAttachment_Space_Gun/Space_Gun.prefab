@@ -128,7 +128,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 960434ece8771ed4cbecc56fd636ab6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  savedProjectSettings: {fileID: 11400000, guid: 524d04a8d42784bd28f0345d4abb6089,
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
   version: 2
   primarySlot: 3

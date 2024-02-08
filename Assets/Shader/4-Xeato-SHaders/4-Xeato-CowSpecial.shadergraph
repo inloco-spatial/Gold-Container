@@ -1709,7 +1709,7 @@
 }
 
 {
-    "m_SGVersion": 0,
+    "m_SGVersion": 1,
     "m_Type": "UnityEditor.ShaderGraph.PositionNode",
     "m_ObjectId": "fb5a46af972244e4a0109e9a2edc3b69",
     "m_Group": {
