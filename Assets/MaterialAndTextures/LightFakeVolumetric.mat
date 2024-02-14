@@ -28,7 +28,7 @@ Material:
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 1
-  m_CustomRenderQueue: 3002
+  m_CustomRenderQueue: 3000
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -119,18 +119,18 @@ Material:
     - _EnvironmentReflections: 1
     - _FlipbookBlending: 1
     - _FlipbookMode: 0
-    - _FrenelPower: 0.12
+    - _FrenelPower: 0.25
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
     - _Mode: 0
     - _NormPower: 5.16
-    - _NormalMul: -3
+    - _NormalMul: -1.64
     - _OcclusionStrength: 1
     - _Parallax: 0.005
-    - _QueueControl: 0
-    - _QueueOffset: 2
+    - _QueueControl: 1
+    - _QueueOffset: 0
     - _ReceiveShadows: 0
     - _SampleGI: 0
     - _Smoothness: 0
@@ -148,7 +148,7 @@ Material:
     - _BaseColor: {r: 0.4, g: 0.38333333, b: 0.38333333, a: 0.019607844}
     - _BaseColorAddSubDiff: {r: -1, g: 1, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
-    - _Color: {r: 0.5943396, g: 0.5943396, b: 0.5943396, a: 0.019607844}
+    - _Color: {r: 0.7169812, g: 0.7169812, b: 0.7169812, a: 0.019607844}
     - _EmissionColor: {r: 337.79395, g: 337.79395, b: 337.79395, a: 1}
     - _NormalCorrect: {r: -5, g: -3, b: -5, a: 0}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}

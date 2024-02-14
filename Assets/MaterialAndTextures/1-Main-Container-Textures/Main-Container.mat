@@ -23,11 +23,12 @@ Material:
   m_Name: Main-Container
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_ValidKeywords:
+  - _EMISSION
   - _METALLICSPECGLOSSMAP
   - _NORMALMAP
   - _OCCLUSIONMAP
   m_InvalidKeywords: []
-  m_LightmapFlags: 4
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 2000
@@ -58,7 +59,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: a7d0452076ba25a45a4614b73423d5aa, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -124,6 +125,6 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 0.97516084, b: 0.9292453, a: 1}
     - _Color: {r: 1, g: 0.9751608, b: 0.9292453, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0.6886792, g: 0.6886792, b: 0.6886792, a: 1}
     - _SpecColor: {r: 1, g: 0.9041069, b: 0.22075468, a: 1}
   m_BuildTextureStacks: []
