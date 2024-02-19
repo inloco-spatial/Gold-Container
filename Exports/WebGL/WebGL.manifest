@@ -2,7 +2,7 @@ ManifestFileVersion: 1
 CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: goldencratedraft_0
-      Hash: 709070fb9bebf4bf672156df2e1b66f2
-      CRC: 1365075338
+      Name: goldeen-storage_0
+      Hash: adee5ed3c9239bbfc907227fff557597
+      CRC: 2204915391
       Dependencies: {}

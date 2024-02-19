@@ -65,8 +65,8 @@ Material:
     - _Turb: 0.5
     - _WindSpeed: 2
     m_Colors:
-    - _Color: {r: 0, g: 0.85000014, b: 1, a: 0}
-    - _GroundColor: {r: 0.111651585, g: 0.38679248, b: 0, a: 0}
+    - _Color: {r: 0.028835872, g: 0.58232147, b: 0.6792453, a: 0}
+    - _GroundColor: {r: 0.05664423, g: 0.16981131, b: 0.01201495, a: 0}
     - _Wind: {r: -0.02, g: 0.2, b: 0, a: 0}
     - _WindSpeed: {r: 2, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []

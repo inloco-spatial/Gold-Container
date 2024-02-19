@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 220929c9f5b058d478485be4c83166a6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Aeonik TRIAL
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e8329ae6187745a45a721fe2aa21bf02, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
