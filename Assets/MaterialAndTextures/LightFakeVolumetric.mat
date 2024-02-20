@@ -106,7 +106,7 @@ Material:
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _ColorMode: 4
-    - _ColorMultiply: -25.3
+    - _ColorMultiply: 4.47
     - _Cull: 0
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
@@ -126,7 +126,7 @@ Material:
     - _Metallic: 0
     - _Mode: 0
     - _NormPower: 5.16
-    - _NormalMul: -1.64
+    - _NormalMul: -2.61
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 1

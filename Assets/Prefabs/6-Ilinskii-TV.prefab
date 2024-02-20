@@ -157,8 +157,18 @@ MonoBehaviour:
   iconType: 0
   icon: {fileID: 0}
   interactiveRadius: 2
-  visibilityRadius: 4
+  visibilityRadius: 2
   onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onEnterEvent:
     id: 0
     unityEventIsSynced: 0
     unityEvent:
@@ -176,16 +186,6 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
-    animatorEvent:
-      events: []
-    questEvent:
-      events: []
-  onEnterEvent:
-    id: 0
-    unityEventIsSynced: 0
-    unityEvent:
-      m_PersistentCalls:
-        m_Calls: []
     animatorEvent:
       events: []
     questEvent:
