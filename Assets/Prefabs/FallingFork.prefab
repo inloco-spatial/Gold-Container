@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6468658570577578026}
   - component: {fileID: 8201428029111816099}
   - component: {fileID: 1194711250487938498}
+  - component: {fileID: 4737467066992480308}
   m_Layer: 0
   m_Name: Trigger-Fork
   m_TagString: Untagged
@@ -94,10 +95,10 @@ BoxCollider:
   m_GameObject: {fileID: 2607060672711811277}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 0.57723916, y: 0.63329595, z: 0.67551064}
+  m_Center: {x: -0.0091168, y: 0.051530868, z: 0.008376055}
 --- !u!114 &1194711250487938498
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -105,7 +106,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2607060672711811277}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
   m_Name: 
@@ -157,6 +158,58 @@ MonoBehaviour:
       events: []
     questEvent:
       events: []
+--- !u!114 &4737467066992480308
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2607060672711811277}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24533cd6da2394ed2bea6783b0af62c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+  listenFor: 0
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 7700757374678671386}
+          m_TargetAssemblyTypeName: UnityEngine.Animator, UnityEngine
+          m_MethodName: Play
+          m_Mode: 5
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: Fork@Event
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  deprecated_onEnter:
+    m_PersistentCalls:
+      m_Calls: []
+  deprecated_onExit:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6970534384291168447
 GameObject:
   m_ObjectHideFlags: 0
