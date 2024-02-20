@@ -60,13 +60,13 @@ Material:
     - _HeightGradient: 2.9
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Randomize: 1.95
+    - _Randomize: 0
     - _Smoothness: 0.297
-    - _Turb: 0.5
+    - _Turb: 0.8
     - _WindSpeed: 2
     m_Colors:
     - _Color: {r: 0.028835872, g: 0.58232147, b: 0.6792453, a: 0}
     - _GroundColor: {r: 0.05664423, g: 0.16981131, b: 0.01201495, a: 0}
-    - _Wind: {r: -0.02, g: 0.2, b: 0, a: 0}
+    - _Wind: {r: -0.1, g: 0.2, b: 0, a: 0}
     - _WindSpeed: {r: 2, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []
