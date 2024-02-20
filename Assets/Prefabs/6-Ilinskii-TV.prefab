@@ -115,7 +115,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5635054681193985846}
-  - component: {fileID: 5005870613156883853}
+  - component: {fileID: 2655323825274556826}
+  - component: {fileID: 7122239775579175749}
   m_Layer: 0
   m_Name: 6-Ilinskii-TV
   m_TagString: Untagged
@@ -141,7 +142,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5005870613156883853
+--- !u!65 &2655323825274556826
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5005870613156883852}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.9329712, y: 1.3118788, z: 0.935667}
+  m_Center: {x: -0.024102561, y: 0.44998607, z: 0.55079603}
+--- !u!114 &7122239775579175749
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -150,24 +164,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 5005870613156883852}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Script: {fileID: 11500000, guid: 24533cd6da2394ed2bea6783b0af62c8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interactText: Interact
-  iconType: 0
-  icon: {fileID: 0}
-  interactiveRadius: 2
-  visibilityRadius: 2
-  onInteractEvent:
-    id: 0
-    unityEventIsSynced: 0
-    unityEvent:
-      m_PersistentCalls:
-        m_Calls: []
-    animatorEvent:
-      events: []
-    questEvent:
-      events: []
+  version: 1
+  listenFor: 0
   onEnterEvent:
     id: 0
     unityEventIsSynced: 0
@@ -200,6 +201,12 @@ MonoBehaviour:
       events: []
     questEvent:
       events: []
+  deprecated_onEnter:
+    m_PersistentCalls:
+      m_Calls: []
+  deprecated_onExit:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &5312282859133709286
 GameObject:
   m_ObjectHideFlags: 0
