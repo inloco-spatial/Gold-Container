@@ -2,7 +2,7 @@ ManifestFileVersion: 1
 CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: space-4_0
-      Hash: c71701860561288dd17a83983a559e04
-      CRC: 2889597255
+      Name: inloco-gallery_0
+      Hash: aaf4380c0afadb08f1c523230834b9da
+      CRC: 2018823525
       Dependencies: {}
