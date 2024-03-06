@@ -2,7 +2,7 @@ ManifestFileVersion: 1
 CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: goldencratedraft_0
-      Hash: cbd8cabc030620f502e77c3119b59c4f
-      CRC: 2675890188
+      Name: inloco-gallery_0
+      Hash: c8ff86b3e4618886926fbce6415d4b28
+      CRC: 3614203815
       Dependencies: {}

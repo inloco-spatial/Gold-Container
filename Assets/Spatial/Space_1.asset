@@ -15,10 +15,10 @@ MonoBehaviour:
   version: 1
   sku: 65d0a7ccb02952700c49bd4a
   packageName: Golden_container
-  thumbnail: {fileID: 2800000, guid: 997cc365e7e182c4c905839dc059788a, type: 3}
+  thumbnail: {fileID: 2800000, guid: 2fa01189f5b3e6249a814074bc52eaaa, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: fr4vjpqtw2l5xck98npz4
+  worldID: 3k68nu2awpciuy6e6m2zj
   scene: {fileID: 102900000, guid: 1bd45a01ae8ea984fad3fcabad1cc3a2, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
