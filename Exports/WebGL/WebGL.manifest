@@ -3,6 +3,11 @@ CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: inloco-gallery_0
-      Hash: c8ff86b3e4618886926fbce6415d4b28
-      CRC: 3614203815
+      Hash: 5831c05cc834a206e2ed8f8afe256ff2
+      CRC: 700933766
+      Dependencies: {}
+    Info_1:
+      Name: inloco-gallery_csharp-assembly
+      Hash: 0ba751c3f8d80b8ab10d5ed5350b47a8
+      CRC: 283858953
       Dependencies: {}

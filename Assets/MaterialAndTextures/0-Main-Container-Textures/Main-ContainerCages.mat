@@ -24,12 +24,11 @@ Material:
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_ValidKeywords:
   - _ALPHATEST_ON
-  - _EMISSION
   - _METALLICSPECGLOSSMAP
   - _NORMALMAP
   - _OCCLUSIONMAP
   m_InvalidKeywords: []
-  m_LightmapFlags: 2
+  m_LightmapFlags: 6
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 1
   m_CustomRenderQueue: 2450
@@ -126,6 +125,6 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 0.97516084, b: 0.9292453, a: 1}
     - _Color: {r: 1, g: 0.9751608, b: 0.9292453, a: 1}
-    - _EmissionColor: {r: 0.22294413, g: 0.28040695, b: 0.2830189, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 1, g: 0.9041069, b: 0.22075468, a: 1}
   m_BuildTextureStacks: []
